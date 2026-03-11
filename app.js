@@ -569,7 +569,7 @@ function Contact() {
         if (data.success) setForm(EMPTY_FORM);
       } catch {
         setStatus('error');
-        setMsg('Could not send message. Please email us at hello@furto.com');
+        setMsg('Could not send message. Please email us at chesterfurto11@gmail.com');
       }
     }
   };

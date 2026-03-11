@@ -8,7 +8,8 @@
     "dev": "nodemon server.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemailer": "^8.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
@@ -16,7 +17,12 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "keywords": ["marketing", "react", "nodejs", "express"],
+  "keywords": [
+    "marketing",
+    "react",
+    "nodejs",
+    "express"
+  ],
   "author": "Furto Marketing",
   "license": "MIT"
 }
